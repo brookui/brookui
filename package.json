@@ -1,0 +1,13 @@
+{
+  "name": "brookui",
+  "version": "0.1.0",
+  "private": true,
+  "description": "BrookUI - Cascading themes for solid structures",
+  "scripts": {
+    "build": "pnpm -r build",
+    "publish:all": "pnpm -r publish --access public"
+  },
+  "keywords": ["ui", "theme", "shadcn", "css"],
+  "author": "brookui",
+  "license": "MIT"
+}
